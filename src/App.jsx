@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Welcome to CiCd Project by Deepak</h1>
+      <h2>Welcome to 3rd class</h2>
     </>
   )
 }
